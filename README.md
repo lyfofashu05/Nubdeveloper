@@ -3,37 +3,36 @@
 ## Spoken Languages
 - Hindi
 - English
-- Urdu
 
 ## 🧰 Languages and Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FAD6D6?style=for-the-badge&logo=java&logoColor=5B4638)
+![Kotlin](https://img.shields.io/badge/Kotlin-E8DAEF?style=for-the-badge&logo=kotlin&logoColor=512E5F)
+![HTML5](https://img.shields.io/badge/HTML5-FDEDEC?style=for-the-badge&logo=html5&logoColor=943126)
+![JavaScript](https://img.shields.io/badge/JavaScript-FEF9E7?style=for-the-badge&logo=javascript&logoColor=7D6608)
+![Firebase](https://img.shields.io/badge/Firebase-FDEBD0?style=for-the-badge&logo=firebase&logoColor=7E5109)
+![Git](https://img.shields.io/badge/Git-FADBD8?style=for-the-badge&logo=git&logoColor=641E16)
+![Shell](https://img.shields.io/badge/Shell-FEF5E7?style=for-the-badge&logo=gnu-bash&logoColor=1C2833)
 
 ## 💻 Software Used
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-D6EAF8?style=for-the-badge&logo=arch-linux&logoColor=154360)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FADBD8?style=for-the-badge&logo=ubuntu&logoColor=943126)
+![Linux](https://img.shields.io/badge/Linux-FDF2E9?style=for-the-badge&logo=linux&logoColor=784212)
+![Android](https://img.shields.io/badge/Android-D5F5E3?style=for-the-badge&logo=android&logoColor=145A32)
+![GitHub](https://img.shields.io/badge/GitHub-EAECEE?style=for-the-badge&logo=github&logoColor=1B2631)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-D6EAF8?style=for-the-badge&logo=visual-studio-code&logoColor=154360)
+![Vercel](https://img.shields.io/badge/Vercel-F2F3F4?style=for-the-badge&logo=vercel&logoColor=1C2833)
 
 ## 🧮 Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nubdeveloper/count.svg)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nubdeveloper&show_icons=true&theme=radical&count_private=true&hide=prs"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubdeveloper&layout=compact&theme=radical"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nubdeveloper&theme=onedark"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nubdeveloper&theme=react-dark"/>
 </p>

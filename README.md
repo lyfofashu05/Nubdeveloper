@@ -23,16 +23,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-F2F3F4?style=for-the-badge&logo=vercel&logoColor=1C2833)
 
 ## 🧮 Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/Nubdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/lyfofashu05/count.svg)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nubdeveloper&show_icons=true&theme=radical&count_private=true&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&theme=radical&count_private=true&hide=prs"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubdeveloper&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfofashu05&layout=compact&theme=radical"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nubdeveloper&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lyfofashu05&theme=onedark"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nubdeveloper&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyfofashu05&theme=react-dark"/>
 </p>

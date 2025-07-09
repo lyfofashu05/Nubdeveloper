@@ -23,7 +23,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-F2F3F4?style=for-the-badge&logo=vercel&logoColor=1C2833)
 
 ## 🧮 Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/lyfofashu05/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ---
 

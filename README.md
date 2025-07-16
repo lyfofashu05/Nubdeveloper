@@ -34,10 +34,13 @@ https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudi
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ashutosh Dubey}/count.svg" /></p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lyfofashu05&color=512da8&style=flat-square&label=PROFILE+VIEWS" />
+</p></p> 
 <br></div>
 <div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=3C3F41" alt="Ashutosh's github stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfofashu05&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=lyfofashu05&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
-</div>
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&count_private=true&hide_border=true&title_color=00695C&icon_color=00897B&text_color=37474F&bg_color=FAFAFA" alt="Ashutosh's github stats" />
+
+<img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfofashu05&layout=compact&hide_border=true&title_color=5E35B1&text_color=5E35B1&bg_color=F3F2FD" />
+
+<img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=lyfofashu05&limit=5&theme=light&combine_all_yearly_contributions=true&title_color=37474F&text_color=546E7A&bg_color=FDF7F7&hide_border=true" />

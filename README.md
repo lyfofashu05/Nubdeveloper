@@ -1,38 +1,43 @@
-# Ashutosh Dubey
+<!--![logo](bannerss.png)-->
+  <a href="https://github.com/lyfofashu05">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=lyfofashu05&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  </a>
 
-## Spoken Languages
-- Hindi
-- English
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
 
-## 🧰 Languages and Tools
-![Java](https://img.shields.io/badge/Java-FAD6D6?style=for-the-badge&logo=java&logoColor=5B4638)
-![Kotlin](https://img.shields.io/badge/Kotlin-E8DAEF?style=for-the-badge&logo=kotlin&logoColor=512E5F)
-![HTML5](https://img.shields.io/badge/HTML5-FDEDEC?style=for-the-badge&logo=html5&logoColor=943126)
-![JavaScript](https://img.shields.io/badge/JavaScript-FEF9E7?style=for-the-badge&logo=javascript&logoColor=7D6608)
-![Firebase](https://img.shields.io/badge/Firebase-FDEBD0?style=for-the-badge&logo=firebase&logoColor=7E5109)
-![Git](https://img.shields.io/badge/Git-FADBD8?style=for-the-badge&logo=git&logoColor=641E16)
-![Shell](https://img.shields.io/badge/Shell-FEF5E7?style=for-the-badge&logo=gnu-bash&logoColor=1C2833)
+### Spoken Languages 
+* Hindi
+* English
 
-## 💻 Software Used
-![Arch](https://img.shields.io/badge/Arch-D6EAF8?style=for-the-badge&logo=arch-linux&logoColor=154360)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FADBD8?style=for-the-badge&logo=ubuntu&logoColor=943126)
-![Linux](https://img.shields.io/badge/Linux-FDF2E9?style=for-the-badge&logo=linux&logoColor=784212)
-![Android](https://img.shields.io/badge/Android-D5F5E3?style=for-the-badge&logo=android&logoColor=145A32)
-![GitHub](https://img.shields.io/badge/GitHub-EAECEE?style=for-the-badge&logo=github&logoColor=1B2631)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-D6EAF8?style=for-the-badge&logo=visual-studio-code&logoColor=154360)
-![Vercel](https://img.shields.io/badge/Vercel-F2F3F4?style=for-the-badge&logo=vercel&logoColor=1C2833)
+### Languages and Tools
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
+![bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
+<!--### Developer's Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
+-->
+### Software Used
+![ArchLinux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg) 
+![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg)
+![linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
+![android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
+![Visual Studio Code](
+https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg
+)
+![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
 
-## 🧮 Visitors Count
-![](https://komarev.com/ghpvc/?username=lyfofashu05&style=plastic)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&theme=radical&count_private=true&hide=prs"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfofashu05&layout=compact&theme=radical"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=lyfofashu05&theme=onedark"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyfofashu05&theme=react-dark"/>
-</p>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ashutosh Dubey}/count.svg" /></p> 
+<br></div>
+<div align="center">  
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="Ashutosh's github stats" /> 
+  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfofashu05&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
+  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=lyfofashu05&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
+</div>

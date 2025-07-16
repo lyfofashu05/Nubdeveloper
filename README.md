@@ -37,7 +37,7 @@ https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudi
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ashutosh Dubey}/count.svg" /></p> 
 <br></div>
 <div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="Ashutosh's github stats" /> 
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=lyfofashu05&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=3C3F41" alt="Ashutosh's github stats" /> 
   <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfofashu05&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
   <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=lyfofashu05&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
 </div>

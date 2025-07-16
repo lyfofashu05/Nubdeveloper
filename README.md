@@ -1,6 +1,6 @@
 <!--![logo](bannerss.png)-->
   <a href="https://github.com/lyfofashu05">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=lyfofashu05&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=lyfofashu05&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox">
   </a>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
